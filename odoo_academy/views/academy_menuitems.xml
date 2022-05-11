@@ -14,7 +14,8 @@
 
         <menuitem name="Odoo Academy"
                   id="menu_academy"
-                  sequence="1"/>
+                  sequence="1"
+                  web_icon="odoo_academy,static/description/icon.png"/>
 
         <menuitem id="menu_academy_sub" name="Odoo Academy" parent="menu_academy" sequence="2"/>
 
