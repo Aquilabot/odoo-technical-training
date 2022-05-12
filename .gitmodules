@@ -1,0 +1,4 @@
+[submodule "odoo-trainings/odoo-technical-training"]
+	path = odoo-trainings/odoo-technical-training
+	url = git@github.com:odoo-trainings/odoo-technical-training.git
+	branch = 15.0-odoo-academy-day10
