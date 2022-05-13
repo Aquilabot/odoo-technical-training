@@ -7,3 +7,8 @@
 	path = fsrs-odoo/odoo-academy
 	url = git@github.com:fsrs-odoo/private-submodule.git
 	branch = odoo-academy
+
+[submodule "fsrs-odoo/odoo-academy_2"]
+	path = fsrs-odoo/odoo-academy_2
+	url = git@github.com:fsrs-odoo/private-submodule.git
+	branch = production
